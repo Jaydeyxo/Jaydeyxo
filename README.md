@@ -1,5 +1,5 @@
 - 👋 I'm Jayde.
 - 👀 I’m interested in: static websites. My dream is to be a web developer.
-- 🌱 I’m currently learning: Java, HTML, CSS and Python. Looking to learn Javascript
+- 🌱 I’m currently learning: Javascript, React, and C#. I know a good amount of HTML, CSS and Python.
 - 📫 How to reach me: jaydexoxo on discord. feel free to contact me anytime
 - 😄 Pronouns: she/her
